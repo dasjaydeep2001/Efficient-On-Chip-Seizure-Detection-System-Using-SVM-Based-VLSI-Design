@@ -1,0 +1,2 @@
+# Efficient-On-Chip-Seizure-Detection-System-Using-SVM-Based-VLSI-Design
+This on-chip system, designed for high efficiency and accuracy, is based on Very Large Scale Integration (VLSI) and employs a nonlinear Support Vector Machine (SVM). It comprises a feature extraction (FE) module that extracts relevant features from electroencephalogram (EEG) signals and an SVM module that efficiently learns and classifies seizures.
